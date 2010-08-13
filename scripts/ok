@@ -1,0 +1,3 @@
+#!/bin/bash
+# this script is expected to be called from the parent directory!
+mv models/data/blog.sqlite{.err,}
