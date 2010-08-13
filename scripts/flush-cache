@@ -1,0 +1,4 @@
+#!/bin/bash
+# this script is expected to be called from the parent directory!
+# A good script if you don't want to write rm -r templates/* instead of rm -r temp/* ;-)
+rm -r temp/* 
